@@ -52,7 +52,7 @@ Built a long-short strategy by ranking coins on statistical factors instead of p
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-### 🏦 [Credit Risk Modeling — PD Scorecard](https://github.com/HaiNam19/[repo-name])
+### 🏦 [Credit Risk Modeling — PD Scorecard](https://github.com/HaiNam19/[https://github.com/HaiNam19/Credit-Risk-Modeling.git])
 Developed an end-to-end Probability of Default scorecard on the Home Credit dataset, following a real banking workflow: feature engineering across 6 raw tables → fine classing and WOE transformation → logistic regression scorecard → validation. 
 
 **Result:** Final model with 37 variables after a 216 → 37 feature selection funnel. Gini ≈ 0.52 and KS ≈ 0.39 stable across train, validation, and test sets (gap < 0.01, no overfitting). Bad rates decrease monotonically across score deciles. Population shift sensitivity analysis showed the model stays robust under a higher-risk portfolio (Gini 0.526, AUC 0.763) and degrades only mildly under a concentrated medium-risk portfolio (Gini 0.43, AUC 0.71).
